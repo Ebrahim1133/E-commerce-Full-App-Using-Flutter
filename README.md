@@ -1,6 +1,6 @@
 <h1>E-commerce Full App Using Flutter</h1>
 <br>
-<p>Flutter Ecommerce app, Learn how can make a full app using Getx Ecosystem Management, and use API, with clean code MVC design pattern.</p>
+<p>Flutter Ecommerce app, Learn how can make a full app using Getx Ecosystem Management, and use API and Firebase, with clean code MVC design pattern.</p>
 
 <h1>Welcome Screen</h1>
 
