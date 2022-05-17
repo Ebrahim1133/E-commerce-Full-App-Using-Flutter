@@ -10,7 +10,7 @@
 
 ![ScreenShot](url)
 
-<h1>Forget Password Screen</h1>
+<h1>Forgot Password Screen</h1>
 
 ![ScreenShot](url)
 
