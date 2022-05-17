@@ -10,6 +10,10 @@
 
 ![ScreenShot](url)
 
+<h1>Forget Password Screen</h1>
+
+![ScreenShot](url)
+
 <h1>Sign UP Screen</h1>
 
 ![ScreenShot](url)
